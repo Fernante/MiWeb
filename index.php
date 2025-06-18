@@ -6,6 +6,7 @@
     <title>Mi Web</title>
 </head>
 <body>
+    <p>hola</p>
    <h1 style= "color:blue; text-align: center;">Bienvenido a mi primera web</h1> 
    <p style= "color:blue; text-align: center;"><?php
    echo "Hola, mundo! Esta es una página de ejemplo en PHP.";
